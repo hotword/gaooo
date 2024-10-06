@@ -1,5 +1,5 @@
 {
-"spider":"./jar/top97.jar;md5;7299c83c6ee488b6051041d3f9a30488",
+"spider":"./top97.jar;md5;7299c83c6ee488b6051041d3f9a30488",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./listx.txt"]}]}],
 "sites":
 [{"key":"t4public","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
@@ -26,7 +26,7 @@
 {"key":"apilj.com","name":"成人11","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/","searchable":1,"filterable":1},
 {"key":"api.putaozy.net","name":"成人13","type":1,"api":"http://api.putaozy.net/inc/apijson_vod.php","searchable":1,"filterable":1},
 {"key":"mygzycj.com","name":"成人14","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"filterable":1},
-{"key":"99zywcj.com","name":"成人16","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
+{"key":"99zywcj.com"，"name":"成人16","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
 {"key":"jializyzapi.com","name":"成人17","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"91md.me","name":"成人19","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"filterable":1},
 {"key":"sdszyapi.com","name":"成人20","type":0,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml","searchable":1,"filterable":1},
